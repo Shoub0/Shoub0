@@ -16,6 +16,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Shoub0&icon=5&color=8)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Shoub0&icon=5&color=red)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
