@@ -44,7 +44,7 @@ jobs:
           SHOW_LOC_CHART: "True"
           SHOW_TOTAL_CODING_TIME: "True"
           SHOW_COMMIT: "True"
-          COMMIT_BY_ME: "True"
+          COMMIT_BY_ME: "True
 <!--END_SECTION:waka-->
 
 ---
