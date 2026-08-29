@@ -13,7 +13,7 @@
 ---
 
 ## 🐱 My GitHub Data
-<!--START_SECTION:waka-->
+
 name: Waka Readme
 
 on:
@@ -45,7 +45,6 @@ jobs:
           SHOW_TOTAL_CODING_TIME: "True"
           SHOW_COMMIT: "True"
           COMMIT_BY_ME: "True
-<!--END_SECTION:waka-->
 
 ---
 
