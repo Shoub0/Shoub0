@@ -28,11 +28,13 @@ jobs:
   update-readme:
     name: Update README with metrics
     runs-on: ubuntu-latest
+
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
           SHOW_OS: "True"
           SHOW_PROJECTS: "True"
           SHOW_EDITORS: "True"
@@ -40,12 +42,7 @@ jobs:
           SHOW_TIMEZONE: "True"
           SHOW_PROFILE_VIEWS: "True"
           SHOW_SHORT_INFO: "True"
-          SHOW_LINES_OF_CODE: "False"
           SHOW_LOC_CHART: "True"
-          SHOW_TOTAL_CODING_TIME: "True"
           SHOW_COMMIT: "True"
-          COMMIT_BY_ME: "True
-
----
-
+          COMMIT_BY_ME: "True"
 [![](https://komarev.com/ghpvc/?username=Shoub0&icon=5&color=red)](https://visitcount.itsvg.in)
