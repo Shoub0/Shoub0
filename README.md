@@ -14,8 +14,6 @@
 
 ## 🐱 My GitHub Data
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 name: Waka Readme
 
 
@@ -48,4 +46,7 @@ jobs:
           SHOW_LOC_CHART: "True"
           SHOW_COMMIT: "True"
           COMMIT_BY_ME: "True"
+          
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 [![](https://komarev.com/ghpvc/?username=Shoub0&icon=5&color=red)](https://visitcount.itsvg.in)
