@@ -14,39 +14,6 @@
 
 ## 🐱 My GitHub Data
 
-name: Waka Readme
-
-
-on:
-  schedule:
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  update-readme:
-    name: Update README with metrics
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-
-          SHOW_OS: "True"
-          SHOW_PROJECTS: "True"
-          SHOW_EDITORS: "True"
-          SHOW_LANGUAGE: "True"
-          SHOW_TIMEZONE: "True"
-          SHOW_PROFILE_VIEWS: "True"
-          SHOW_SHORT_INFO: "True"
-          SHOW_LOC_CHART: "True"
-          SHOW_COMMIT: "True"
-          COMMIT_BY_ME: "True"
-          
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 [![](https://komarev.com/ghpvc/?username=Shoub0&icon=5&color=red)](https://visitcount.itsvg.in)
