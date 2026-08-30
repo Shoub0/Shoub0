@@ -14,7 +14,10 @@
 
 ## 🐱 My GitHub Data
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 name: Waka Readme
+
 
 on:
   schedule:
