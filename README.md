@@ -16,7 +16,7 @@
 ![](https://streak-stats.demolab.com/?user=Shoub0&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shoub0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-19%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-43%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20mins-blue?style=flat)
 
@@ -61,16 +61,16 @@ Sunday                   13 commits          ███████████�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        24 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  24 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Desktop                  24 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  24 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -90,7 +90,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Shoub0/Shoub0/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 21:31:28 UTC
+ Last Updated on 28/09/2026 23:26:42 UTC
 <!--END_SECTION:waka-->
 
 
